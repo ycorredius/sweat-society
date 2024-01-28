@@ -1,0 +1,24 @@
+### Models
+- Users data
+  - Username
+  - Age
+  - Weight
+  - Height
+  - Email
+- Activity Challenge 
+  - challenge name
+- Event
+   - Event name 
+   - attendees
+   - Date of event
+   - location of event 
+- Group/Community
+  - Group/community name
+  - members
+- Achievements
+    - achievement name 
+    - Users
+- Wellness Buddy (this essentially a friends list)
+- Posts
+  - user 
+  - content

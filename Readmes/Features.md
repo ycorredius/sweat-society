@@ -1,0 +1,17 @@
+### Features
+   - Group Creation
+     - Implement the ability for users to be organizers and create groups
+     - Organizers can either set groups to be public or private.
+     - Private groups are invite only and invisible to non-members.
+     - Anyone should be able to join the group
+     - Custom challenges can be created in each group.
+   - Activity Challenges
+      - Step challenge for getting the most steps
+      - Mindful challenges
+        - Encourage user to accumulate mindful minutes each day through meditation or relaxation.
+        - Give badges for consistent participation
+   - Healthy Habits Streaks
+     - Challenge includes achieving goals i.e. like drinking water, getting sleep, tracking gratitude
+   - Ability to share progress
+   - Leader Board
+   - Gratitude Challenges
